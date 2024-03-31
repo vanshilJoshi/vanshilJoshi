@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at ([https://vanshiljoshi.github.io/Portfolio/](https://vanshiljoshi.github.io/myPortfolio/))
+- 👨‍💻 All of my projects are available at [https://vanshiljoshi.github.io/Portfolio/](https://vanshiljoshi.github.io/myPortfolio/)
 
 - 📫 How to reach me **vanshiljoshi712@gmail.com**
 
